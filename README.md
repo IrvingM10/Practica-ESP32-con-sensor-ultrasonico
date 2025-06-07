@@ -52,6 +52,13 @@ Cuando haya funcionado el display te mandará las siguientes imagenes en retardo
 
 ![image](https://github.com/user-attachments/assets/15aaa991-16f0-42e9-98f4-32c2b8164e76)
 
+![image](https://github.com/user-attachments/assets/43b97548-d620-4983-9bad-2d4f1c1af69f)
+
+
+
+
+
+
 
 
 
