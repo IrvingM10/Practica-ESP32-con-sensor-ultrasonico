@@ -54,10 +54,16 @@ Cuando haya funcionado el display te mandará las siguientes imagenes en retardo
 
 ![image](https://github.com/user-attachments/assets/43b97548-d620-4983-9bad-2d4f1c1af69f)
 
+![image](https://github.com/user-attachments/assets/fe899c97-3b7e-4077-ad9d-2a1906066612)
+
 ![image](https://github.com/user-attachments/assets/e4b69aed-b718-440a-988a-c280a012bce7)
 
 
+## Créditos
 
+Desarrollado por Irving Cardoso estudiante de Ingeniería Mecánica
+
+https://github.com/IrvingM10/Practica-ESP32-con-sensor-ultrasonico/edit/main/README.md
 
 
 
