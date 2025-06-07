@@ -38,6 +38,17 @@ https://wokwi.com/
 
 ![image](https://github.com/user-attachments/assets/28e343cb-cbda-482c-b5f3-19282017765e)
 
+### Instrucciones de operacion
+
+1.Iniciar el simulador
+
+2.Visualizar los datos en la LCD
+
+3.Colocar la distancia dando doble click en el sensor ultrasonico
+
+## Resultados
+
+Cuando haya funcionado el display te mandará las siguientes imagenes en retardos de dos segundos
 
 
 
