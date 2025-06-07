@@ -50,5 +50,8 @@ https://wokwi.com/
 
 Cuando haya funcionado el display te mandará las siguientes imagenes en retardos de dos segundos
 
+![image](https://github.com/user-attachments/assets/15aaa991-16f0-42e9-98f4-32c2b8164e76)
+
+
 
 
