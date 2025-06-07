@@ -30,6 +30,8 @@ https://wokwi.com/
 
 ![image](https://github.com/user-attachments/assets/4ba612de-e60e-4458-a1ee-86ba0c40a53c)
 
+2.Instalar la librería LiquidCrystal I2C como se muestra en la siguiente imagen
+
 
 
 
