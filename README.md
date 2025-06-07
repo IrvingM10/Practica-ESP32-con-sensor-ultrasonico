@@ -34,7 +34,10 @@ https://wokwi.com/
 
 ![image](https://github.com/user-attachments/assets/b011e4d2-4f9f-4540-b711-a4827bbf83cb)
 
-3.Hacer la conexión como se muestra en la siguiente imagen
+3.Hacer la conexión como se muestra en la siguiente imagenInstrucciones de operación
+
+![image](https://github.com/user-attachments/assets/28e343cb-cbda-482c-b5f3-19282017765e)
+
 
 
 
