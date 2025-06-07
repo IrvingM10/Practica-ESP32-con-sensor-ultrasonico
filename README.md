@@ -26,3 +26,7 @@ https://wokwi.com/
 
 1. Abrir la terminal de programación y  colocar las siguientes líneas
 
+![image](https://github.com/user-attachments/assets/04340cc7-23ca-4f4f-be8b-04704e0c7857)
+
+
+
