@@ -32,7 +32,9 @@ https://wokwi.com/
 
 2.Instalar la librería LiquidCrystal I2C como se muestra en la siguiente imagen
 
+![image](https://github.com/user-attachments/assets/b011e4d2-4f9f-4540-b711-a4827bbf83cb)
 
+3.Hacer la conexión como se muestra en la siguiente imagen
 
 
 
